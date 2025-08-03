@@ -13,10 +13,11 @@ To evaluate and visualize **how TUMO students engage with workshops**, how their
 
 ## Team Members
 
-- Gor (Demographics & Classification)
-- Rita (Temporal Trends)
-- Hayk G. (Behavioral Gender & Age Patterns)
-- Hayk A. (Segmentation & Clustering)
+- Gor Harutunyan
+- Rita Chamiyan
+- Hayk Grigoryan
+- Hayk Alekyan
+- Aram Barkhudaryan
 
 ## Data Sources
 
