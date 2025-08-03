@@ -2,7 +2,7 @@
 
 This project presents a **learning analytics framework** to explore student behavior, performance, and engagement at the [TUMO Center for Creative Technologies](https://tumo.org/). By integrating and analyzing multiple sources of student data, we aim to uncover meaningful patterns that can support evidence-based decisions to improve student outcomes.
 
-## 🎯 Project Objective
+## Project Objective
 
 To evaluate and visualize **how TUMO students engage with workshops**, how their performance varies across different groups, and what behavioral patterns can be detected through data analysis. Our work focuses on identifying:
 
@@ -11,14 +11,14 @@ To evaluate and visualize **how TUMO students engage with workshops**, how their
 - How **attendance** and **course participation** cluster students into different engagement profiles
 - Whether **interests vary by location**, and what factors influence **longer engagement**
 
-## 👥 Team Members
+## Team Members
 
 - Gor (Demographics & Classification)
 - Rita (Temporal Trends)
 - Hayk G. (Behavioral Gender & Age Patterns)
 - Hayk A. (Segmentation & Clustering)
 
-## 📁 Data Sources
+## Data Sources
 
 Data is based on internal reports from TUMO’s Yerevan Center, including:
 
@@ -29,7 +29,7 @@ Data is based on internal reports from TUMO’s Yerevan Center, including:
 
 Each dataset captures important aspects such as student age, gender, attendance ratios, completed/incomplete/withdrawn courses, and workshop start/end dates.
 
-## 📊 Analytical Sections
+## Analytical Sections
 
 The analysis is structured across five main modules:
 
@@ -95,7 +95,7 @@ Methods:
 
 ---
 
-## 🔍 Additional Hypotheses Explored
+## Additional Hypotheses Explored
 
 - **Do interests vary by location?**
   > Cities like Yerevan and Gyumri may prefer different topics (e.g., Animation vs Robotics)
@@ -110,7 +110,7 @@ These hypotheses were investigated with:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **R, RStudio**
 - **RMarkdown** (reporting)
